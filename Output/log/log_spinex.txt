@@ -1,0 +1,4 @@
+Program index (in temp directory): 765187
+Please wait, calculating prediction ...
+Can't exec "/home/sumit/REGAd3p/REGAd3p/Software/AdditionalFiles/spineXpublic//bin//phipsi_ss0.e": Permission denied at ../AdditionalFiles/spineXpublic/spX.pl line 121.
+Aborting: Can't run first SS predictor

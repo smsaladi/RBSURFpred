@@ -1,0 +1,2 @@
+1JL7A
+SVM PREDICT Command: ../../../libsvm-3.21/svm-predict -b 1 ../Features/1JL7A/1JL7A.svm.ss.scale ../Models/SS_SVM/SSD_TR1001.libsvm.scale.model ../Features/1JL7A/1JL7A.svm.ss.predict >> ../Output/log/log_1JL7A_svm_prediction

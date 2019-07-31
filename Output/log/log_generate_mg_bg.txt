@@ -1,0 +1,5 @@
+../Features/1JL7A/1JL7A.pssm
+../Features/1JL7A/1JL7A.monogram
+../Features/1JL7A/1JL7A.bigram
+SEQUENCE LENGTH: 147
+Sequence Length: 147
