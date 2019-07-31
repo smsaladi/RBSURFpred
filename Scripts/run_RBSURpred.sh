@@ -8,7 +8,7 @@ iupred_path="/home/sumit/RBSURpred/RBSURpred/Software/AdditionalFiles/iupred"
 input_path="../Input";
 id_path="../Input/list";
 source_code_path="../Codes";
-libsvm_path="../../../libsvm";
+libsvm_path="../AdditionalFiles/libsvm";
 
 sequence="../Features";
 feature="../../../../Features";
